@@ -93,6 +93,11 @@ The best Mean Ridge Regression Model is used for Model Deployment
  # FLASK
  framework is created using Flask.
 
+ # FOR FRONTEND 
+ HTML
+
+ CSS
+
 # Tools used
 VS CODE 
 
