@@ -1,4 +1,4 @@
-#  Alegerian-Forest-fire-prediction
+#  Algerian-Forest-fire-prediction
 
 # Introduction
 
