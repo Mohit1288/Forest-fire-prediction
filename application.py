@@ -10,8 +10,8 @@ app.debug = True
 
 
 ## import ridge regresor model and standard scaler pickle
-ridge_model=pickle.load(open('models/ridge.pkl','rb'))
-standard_scaler=pickle.load(open('models/scaler.pkl','rb'))
+ridge_model=pickle.load(open('model/ridge.pkl','rb'))
+standard_scaler=pickle.load(open('model/scaler.pkl','rb'))
 
 # ## Route for home page
 # @app.route('/')
